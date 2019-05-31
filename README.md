@@ -13,7 +13,7 @@ It's not perfect, but it is very easy to add more features and attributes to it.
 - Python 2.7 (But it is easily convertable to 3)
 - Python libraries:
   - sys (Should be installed with Python by default)
-  - xml.etree.ElementTree (Might require to be insta;;ed manually)
+  - xml.etree.ElementTree (Might require to be installed manually)
 
 
 
