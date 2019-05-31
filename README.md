@@ -23,3 +23,5 @@ Example:
 python results.nessus out.csv
 ```
 
+
+### Thanks!
