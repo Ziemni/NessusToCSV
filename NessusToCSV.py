@@ -46,7 +46,7 @@ for host in root.iter('ReportHost'):
 			var_host_plugin_cvss3 = "None"
 		output.write(var_host_name+';'+var_host_ip+';'+var_host_plugin_risk+';'+var_host_plugin_sev+';'+var_host_plugin_port+';'+var_host_plugin_id+';'+var_host_plugin_type+';'+var_host_plugin_name+';'+var_host_plugin_cve+';'+var_host_plugin_cvss+';'+var_host_plugin_cvss3+'\n')
 
-# Closing output file. Just in case...
+# Closing output file. You know... Just in case...
 output.close()
 
 # Done :)
