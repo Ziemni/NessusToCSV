@@ -2,12 +2,12 @@
 try:
 	import xml.etree.ElementTree as xml
 except:
-	print("Failed o import XML library!")
+	print("Failed to import XML library!")
 	quit()
 try:
 	import sys
 except:
-	print("Failed o import sys library!")
+	print("Failed to import sys library!")
 	quit()
 
 # Preparing root for Nessus file
